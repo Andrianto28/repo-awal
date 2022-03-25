@@ -1,2 +1,5 @@
 print('halo dunia')
 print('Belajar AI')
+print('Halo Orbit!')
+print('belajar ML!')
+print('Yes!')
